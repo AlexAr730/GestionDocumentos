@@ -19,5 +19,5 @@ public class Documento {
     private String urlubicacion;
     private String fechasubida;
     private String ultimamodificacion;
-
+    private Long tamañoArchivo;
 }
